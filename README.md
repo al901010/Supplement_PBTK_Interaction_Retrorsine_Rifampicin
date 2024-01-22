@@ -4,7 +4,7 @@ ___
 
 This repository contains code and data used in the following publication:
 
-A. Lehmann et al. PBTK modeling of the CYP3A4-mediated interaction dynamics between the pyrrolizidine alkaloid retrorsine and the antibiotic rifampicin in man. (2023)
+A. Lehmann et al. PBTK model-based analysis of CYP3A4 induction and the toxicokinetics of the pyrrolizidine alkaloid retrorsine in man. (2024)
 
 
 ___
