@@ -1,4 +1,4 @@
-# Supplement PBTK modeling of the interaction between retrorsine and rifampicin
+# Supplement PBTK modeling of the CYP3A4-mediated interaction between retrorsine and rifampicin
 
 ___
 
